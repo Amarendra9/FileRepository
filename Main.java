@@ -4,7 +4,7 @@ class Main
 	{
 		System.out.println("main method is running");
 			System.out.println("git hub opened");
-
-				System.out.println("local repository running");
+                    	System.out.println("local repository running");
+                    	System.out.println("git hub closed");
 	}
 }
